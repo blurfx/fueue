@@ -1,0 +1,27 @@
+{
+  "name": "fueue",
+  "version": "1.0.0",
+  "description": "Fast performance queue implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blurfx/fueue.git"
+  },
+  "keywords": [
+    "queue",
+    "list",
+    "enqueue",
+    "dequeue",
+    "data-structure",
+    "fifo"
+  ],
+  "author": "Changhui Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blurfx/fueue/issues"
+  },
+  "homepage": "https://github.com/blurfx/fueue#readme"
+}
